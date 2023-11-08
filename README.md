@@ -3,4 +3,5 @@ A Python 3, 2d simulation of a customizable solar system using the library: Pyga
 
 # Controls
 Toggle Pause: 'P'
+
 Pan Camera: Arrow Keys
